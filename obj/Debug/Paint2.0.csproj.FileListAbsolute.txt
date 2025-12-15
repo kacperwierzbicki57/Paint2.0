@@ -1,0 +1,9 @@
+C:\Users\Kacper\Desktop\PaintRecreate\Paint2.0\obj\Debug\Paint2.0.csproj.AssemblyReference.cache
+C:\Users\Kacper\Desktop\PaintRecreate\Paint2.0\obj\Debug\Paint2._0.Form1.resources
+C:\Users\Kacper\Desktop\PaintRecreate\Paint2.0\obj\Debug\Paint2._0.Properties.Resources.resources
+C:\Users\Kacper\Desktop\PaintRecreate\Paint2.0\obj\Debug\Paint2.0.csproj.GenerateResource.cache
+C:\Users\Kacper\Desktop\PaintRecreate\Paint2.0\obj\Debug\Paint2.0.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\PaintRecreate\Paint2.0\bin\Debug\Paint2.0.exe
+C:\Users\Kacper\Desktop\PaintRecreate\Paint2.0\bin\Debug\Paint2.0.pdb
+C:\Users\Kacper\Desktop\PaintRecreate\Paint2.0\obj\Debug\Paint2.0.exe
+C:\Users\Kacper\Desktop\PaintRecreate\Paint2.0\obj\Debug\Paint2.0.pdb
